@@ -1,0 +1,26 @@
+{
+  "name": "hedera_practice",
+  "version": "1.0.0",
+  "description": "Practice for hedera cert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FC122/Hedera_Cert.git"
+  },
+  "keywords": [
+    "hedera",
+    "cert"
+  ],
+  "author": "Filip Cica",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FC122/Hedera_Cert/issues"
+  },
+  "homepage": "https://github.com/FC122/Hedera_Cert#readme",
+  "dependencies": {
+    "@hashgraph/sdk": "^2.24.2"
+  }
+}
